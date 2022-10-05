@@ -1,0 +1,6 @@
+# Example - Test score 
+
+PLAYER SCORE - 29/09/2022 18:56:36: 
+
+	WIN: 0  DRAW: 0  LOSE: 1
+
